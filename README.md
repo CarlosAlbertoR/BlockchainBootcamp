@@ -8,13 +8,13 @@ Completa los siguientes pasos y anota el `address` del contrato que arrojará el
 
    - Node version 14.x. Usar nvm para intalar otras versiones de `nodeJS`
 
-   - Hacer fork del [repositorio de la clase](https://github.com/Blockchain-Bites/batch-02-bootcamp)
+   - Hacer fork del [repositorio](https://github.com/CarlosAlbertoR/BlockchainBootcamp.git)
 
    - Ve al terminal y ejecuta los siguientes comandos:
 
      ```
-     $ git clone https://github.com/Blockchain-Bites/batch-02-bootcamp.git
-     $ cd batch-02-bootcamp
+     $ git clone https://github.com/CarlosAlbertoR/BlockchainBootcamp.git
+     $ cd BlockchainBootcamp
      ```
 
 2. Instalar Metamask
